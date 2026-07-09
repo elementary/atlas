@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-02 03:40+0000\n"
-"PO-Revision-Date: 2026-06-30 00:56+0000\n"
+"PO-Revision-Date: 2026-07-10 14:00+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/maps/maps-extra/"
 "el/>\n"
@@ -25,15 +25,15 @@ msgstr "Χάρτες"
 
 #: data/maps.desktop.in:7 data/maps.metainfo.xml.in:11
 msgid "View where to go"
-msgstr ""
+msgstr "Δείτε πού να πάτε"
 
 #: data/maps.desktop.in:9
 msgid "trip;explore;"
-msgstr ""
+msgstr "ταξίδι;εκδρομή;εξερεύνηση;ανακάλυψη;πλοήγηση;trip;explore;"
 
 #: data/maps.metainfo.xml.in:13
 msgid "A map app that helps you to see where you want to go."
-msgstr ""
+msgstr "Μια εφαρμογή χαρτών που σας βοηθά να δείτε πού θέλετε να πάτε."
 
 #: data/maps.metainfo.xml.in:16
 msgid "Features include:"
