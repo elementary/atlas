@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.maps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-02 03:40+0000\n"
-"PO-Revision-Date: 2026-06-30 00:56+0000\n"
+"PO-Revision-Date: 2026-07-10 14:00+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/maps/maps/el/>\n"
 "Language: el\n"
@@ -24,23 +24,23 @@ msgstr "Χάρτες"
 
 #: src/MainWindow.vala:41
 msgid "Move to the current location"
-msgstr ""
+msgstr "Μετακίνηση στην τρέχουσα τοποθεσία"
 
 #: src/MainWindow.vala:49
 msgid "Search Maps"
-msgstr ""
+msgstr "Αναζήτηση χαρτών"
 
 #: src/MainWindow.vala:57
 msgid "No Results Found"
-msgstr ""
+msgstr "Δεν βρέθηκαν αποτελέσματα"
 
 #: src/MainWindow.vala:58
 msgid "Try a different search"
-msgstr ""
+msgstr "Δοκιμάστε μια άλλη αναζήτηση"
 
 #: src/MainWindow.vala:104
 msgid "Explore"
-msgstr ""
+msgstr "Εξερεύνηση"
 
 #: src/MainWindow.vala:122
 msgid "Transit"
@@ -48,23 +48,23 @@ msgstr ""
 
 #: src/MainWindow.vala:142
 msgid "System"
-msgstr ""
+msgstr "Σύστημα"
 
 #: src/MainWindow.vala:143
 msgid "Light"
-msgstr ""
+msgstr "Ανοιχτόχρωμο"
 
 #: src/MainWindow.vala:144
 msgid "Dark"
-msgstr ""
+msgstr "Σκουρόχρωμο"
 
 #: src/MainWindow.vala:148
 msgid "Style"
-msgstr ""
+msgstr "Στυλ"
 
 #: src/MainWindow.vala:154
 msgid "Main Menu"
-msgstr ""
+msgstr "Κύριο μενού"
 
 #: src/MainWindow.vala:189
 msgid "Failed to connect to location service"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: src/MapWidget.vala:174
 msgid "You are here"
-msgstr ""
+msgstr "Βρίσκεστε εδώ"
 
 #: src/SearchResultItem.vala:31
 msgid "Unknown"
