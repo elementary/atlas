@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-02 03:40+0000\n"
-"PO-Revision-Date: 2026-07-10 14:00+0000\n"
+"PO-Revision-Date: 2026-07-26 20:01+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/maps/maps-extra/"
 "el/>\n"
@@ -41,11 +41,11 @@ msgstr ""
 
 #: data/maps.metainfo.xml.in:18
 msgid "Search any place"
-msgstr ""
+msgstr "Αναζήτηση οποιασδήποτε τοποθεσίας"
 
 #: data/maps.metainfo.xml.in:19
 msgid "Jump to your current location instantly"
-msgstr ""
+msgstr "Άμεση μετάβαση στην τρέχουσα τοποθεσία σας"
 
 #: data/maps.metainfo.xml.in:21
 msgid ""
@@ -55,7 +55,7 @@ msgstr ""
 
 #: data/maps.metainfo.xml.in:28 data/maps.metainfo.xml.in:32
 msgid "See locations on a map"
-msgstr ""
+msgstr "Προβολή τοποθεσιών σε χάρτη"
 
 #: data/maps.metainfo.xml.in:56
 msgid "elementary, Inc."
